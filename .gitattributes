@@ -1,0 +1,5 @@
+# A szovegfajlok CRLF sorvegeit (Windows 7 Jegyzettomb) a git ne alakitsa at.
+*.md  -text
+*.txt -text
+*.csv -text
+*.sql -text
